@@ -1,0 +1,172 @@
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.deps.json
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.runtimeconfig.json
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.runtimeconfig.dev.json
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.dll
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.pdb
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.Views.dll
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.Views.pdb
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.csprojAssemblyReference.cache
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.csproj.CoreCompileInputs.cache
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorAssemblyInfo.cache
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorAssemblyInfo.cs
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.AssemblyInfoInputs.cache
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.AssemblyInfo.cs
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.TagHelpers.input.cache
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.TagHelpers.output.cache
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorCoreGenerate.cache
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorTargetAssemblyInfo.cache
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorTargetAssemblyInfo.cs
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.Views.pdb
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.dll
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.pdb
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.csproj.CopyComplete
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Upload\Index.g.cshtml.cs
+C:\_aspn_setembro_2018\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Upload\EnviarArquivo.g.cshtml.cs
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.deps.json
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.runtimeconfig.json
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.runtimeconfig.dev.json
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.dll
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.pdb
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.Views.dll
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.Views.pdb
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.csprojAssemblyReference.cache
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.csproj.CoreCompileInputs.cache
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorAssemblyInfo.cache
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorAssemblyInfo.cs
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.AssemblyInfoInputs.cache
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.AssemblyInfo.cs
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.TagHelpers.input.cache
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.TagHelpers.output.cache
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorCoreGenerate.cache
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Upload\EnviarArquivo.g.cshtml.cs
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Upload\Index.g.cshtml.cs
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorTargetAssemblyInfo.cache
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorTargetAssemblyInfo.cs
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.Views.pdb
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.dll
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.pdb
+C:\Users\Inova-1OX2RTQ\Downloads\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.csproj.CopyComplete
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.deps.json
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.runtimeconfig.json
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.runtimeconfig.dev.json
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.dll
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.pdb
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.Views.dll
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.Views.pdb
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.csprojAssemblyReference.cache
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorAssemblyInfo.cache
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorAssemblyInfo.cs
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.AssemblyInfoInputs.cache
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.AssemblyInfo.cs
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.TagHelpers.input.cache
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.TagHelpers.output.cache
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorCoreGenerate.cache
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorTargetAssemblyInfo.cache
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorTargetAssemblyInfo.cs
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.Views.pdb
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.dll
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.pdb
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.csproj.CopyComplete
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Upload\EnviarArquivo.cshtml.g.cs
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Upload\Index.cshtml.g.cs
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Inova-1OX2RTQ\source\repos\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.deps.json
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.runtimeconfig.json
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.runtimeconfig.dev.json
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.dll
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.pdb
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.Views.dll
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.Views.pdb
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.csprojAssemblyReference.cache
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorAssemblyInfo.cache
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorAssemblyInfo.cs
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.AssemblyInfoInputs.cache
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.AssemblyInfo.cs
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.TagHelpers.input.cache
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.TagHelpers.output.cache
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorCoreGenerate.cache
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Upload\EnviarArquivo.g.cshtml.cs
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Upload\Index.g.cshtml.cs
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorTargetAssemblyInfo.cs
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.Views.pdb
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.dll
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.pdb
+C:\Users\lucas\Downloads\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.csproj.CopyComplete
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.deps.json
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.runtimeconfig.json
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.dll
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.pdb
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.Views.dll
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\bin\Debug\netcoreapp2.1\Aspn_Upload.Views.pdb
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorAssemblyInfo.cache
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorAssemblyInfo.cs
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.TagHelpers.input.cache
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.TagHelpers.output.cache
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorCoreGenerate.cache
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Upload\EnviarArquivo.g.cshtml.cs
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\Upload\Index.g.cshtml.cs
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.RazorTargetAssemblyInfo.cs
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.Views.pdb
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.dll
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.pdb
+C:\Users\lucas\source\repos\Moodboard-versão funcionando sem upload\Aspn_Upload\Aspn_Upload\obj\Debug\netcoreapp2.1\Aspn_Upload.csproj.CopyComplete

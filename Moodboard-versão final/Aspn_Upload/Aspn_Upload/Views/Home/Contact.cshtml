@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Contact";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+
+<body>
+
+    <div>
+        <input type="file" onchange="uploadImagem()" />
+    </div>
+</body>
+
+<script>
+
+
+    function uploadImagem() {
+
+        if (event.target.files != null && event.target.files.length != 0) {
+            var arquivosSelecionado = event.target.files[0];
+            var formData = new FormData();
+
+            formData.append("imagem", arquivosSelecionado);
+
+            var xhr = new XMLHttpRequest();
+
+            xhr.open('post', "Upload/EnviarImagem", true);
+
+            xhr.send(formData);
+        }
+    }
+</script>
